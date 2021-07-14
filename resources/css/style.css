@@ -1,0 +1,281 @@
+@media (min-width: 1200px) {
+    .container-custom {
+        max-width: 1350px;
+        margin: auto;
+        padding: 60px 0;
+    }
+}
+
+.customOrange {
+    background: #fcbc30;
+}
+
+.background-white {
+    background: white;
+}
+
+.searchImage {
+    width: 20px;
+    height: 20px;
+    color: #fcbc30;
+}
+
+.grayColor {
+    background: #f2f2f2
+}
+
+.iconDiv {
+    border-bottom-left-radius: 11px;
+    border-top-left-radius: 11px;
+}
+
+.inputDiv {
+    border-top-right-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+
+.lionImg {
+    width: 20px;
+    height: 20px;
+}
+
+.lionDiv {
+    background: #f2f2f2;
+    border-radius: 10px;
+}
+
+.basketDiv {
+    background: #fdf6e9;
+    border: 2px solid #f9f5ba;
+}
+
+.disabledLink {
+    color: #aaaab5;
+    margin-right: 5px;
+}
+
+.linkIcon {
+    margin-right: 5px;
+    color: #fcbc30;
+}
+
+.bannerDiv {
+    background-image: url('/img/food.jpeg');
+    width: 100%;
+    height: 91px;
+    border-radius: 17px;
+}
+
+.logoImg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.pDiv > p {
+    margin-bottom: 0;
+}
+
+.pDiv {
+    padding: 1rem;
+}
+
+.bigP {
+    font-size: 22px;
+}
+
+.numberP {
+    font-size: 28px;
+    color: #fcbc30;
+    margin-bottom: 0;
+}
+
+.numberTitleP {
+    color: white;
+}
+
+.textAlCenter {
+    text-align: center;
+}
+
+.cardDiv {
+    background: #f5eee1;
+    border: 2px solid #fff9b8;
+    border-radius: 22px;
+    height: 142px;
+    width: 100%;
+    padding: 10px;
+}
+
+.cardImage {
+    width: 61%;
+    height: 33%;
+    object-fit: fill;
+    left: 20.5%;
+    position: relative;
+    top: 16px;
+}
+
+.cardTitle {
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    top: 2.5rem;
+    text-align: center;
+}
+
+.activeCard {
+    background: #fcbc30 !important;
+    border: none !important;
+}
+
+.activeCard .cardTitle {
+    color: white;
+    font-weight: unset;
+}
+
+.dishCard {
+    width: 100%;
+    height: 240px;
+    box-shadow: 5px 5px 11px #888888;
+    border-radius: 27px;
+
+}
+
+.dishImage {
+    width: 61%;
+    height: 46%;
+    border-radius: 100px;
+    position: relative;
+    top: -5rem;
+    left: 2.5rem;
+}
+
+.mt-3-rem {
+    margin-top: 3rem;
+}
+
+.dishTitle {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0 9px;
+    text-align: center;
+    position: relative;
+    top: -4.5rem;
+}
+
+.personsTitles {
+    position: relative;
+    top: -5rem;
+    text-align: center;
+}
+
+.priceDiv {
+    position: relative;
+    top: -5rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 15px;
+}
+
+.plusDiv {
+    width: 38px;
+    height: 36px;
+    text-align: center;
+    background: #fcbc30;
+    border-radius: 30px;
+    font-size: 23px;
+    color: white;
+}
+
+.dollarDiv {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.popular {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.activeCard .dishTitle, .activeCard .personsTitles, .activeCard .priceDiv, .activeCard .disabledLink {
+    color: white !important;
+}
+
+.activeCard .plusDiv {
+    background: white;
+    color: #fcbc30;
+}
+
+.h-100-p {
+    height: 100px;
+}
+
+.mainBody {
+    background: #fefefe;
+}
+
+.cartTitleDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cartTitleText {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cartSingle {
+    border: 2px solid #f2f2f2;
+    padding: 12px;
+    border-radius: 16px;
+    margin: 15px 0;
+}
+
+.singleImage {
+    position: relative;
+    width: 100%;
+}
+
+.greenSpan {
+    color: #09b530;
+}
+
+.yellowPrice {
+    color: #fcbc30;
+}
+
+.final {
+    font-size: 17px;
+    border: 2px solid #fcbc30;
+    border-radius: 22px;
+    margin-top: 12rem
+}
+
+.bigP2 {
+    font-size: 24px;
+}
+
+.checkoutButton {
+    background: #09b530;
+    padding: 12px;
+    margin: 17px;
+    border-radius: 11px;
+    margin-top: 3rem;
+}
+
+.secondBody {
+    background: white;
+    padding: 20px;
+    border-radius: 27px;
+    box-shadow: 3px 15px 19px -13px;
+}
